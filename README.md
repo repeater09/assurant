@@ -1,8 +1,9 @@
 ## Assurant
 
 > To whom it concerns,
+> 
 > I hope this finds you well. I decided to put this together as a way to test myself based on the qualifications listed 
-> on the job for a remote PHP developer. This was something I put together pretty quickly (< 4 hours) but seemed to be a > little bit of everything listed on the qualifications list with what my idea of what the position would entail.
+> on the job for a remote PHP developer. This was something I put together pretty quickly (< 4 hours) but seemed to be a little bit of everything listed on the qualifications list with what my idea of what the position would entail.
 >
 > Robert Hurd
 
