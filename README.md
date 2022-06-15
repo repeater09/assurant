@@ -28,3 +28,5 @@ The things I used/implemented in this small project:
     - Mobile first design
 - MySQL
     - Stores data submitted by form
+
+Site can be accessed [here](http://157.245.86.125/service-network-application).
